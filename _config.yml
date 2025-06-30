@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Alex (Xiangyu) Sun"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
-  name             : "Alex (Xiangyu) Sun"
+  avatar           : "images/self.png"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
   location         : "UC"
