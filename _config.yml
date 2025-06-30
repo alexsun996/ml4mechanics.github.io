@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/self.jpg"
+  avatar           : "images/profile.png"
   name             : "Alex (Xiangyu) Sun"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
